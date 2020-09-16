@@ -38,3 +38,6 @@ div#calculadora div {
 div#calculadora div input:nth-child(4){
     background: #a8a7a7;
 }
+div#quarta input:nth-child(1) {
+    background:#4d0808
+}
