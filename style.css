@@ -47,3 +47,6 @@ div#quarta input:nth-child(1), div#calculadora{
 div#quarta input:nth-child(3) {
     background:#1a4cf1
 }
+div#quarta input:nth-child(4), div#calculadora {
+    border-bottom-right-radius: 35px;
+}
