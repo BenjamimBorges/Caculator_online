@@ -50,3 +50,6 @@ div#quarta input:nth-child(3) {
 div#quarta input:nth-child(4), div#calculadora {
     border-bottom-right-radius: 35px;
 }
+input[type=button]:hover{
+    filter: brightness(55%);
+}
