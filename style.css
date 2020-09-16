@@ -53,3 +53,6 @@ div#quarta input:nth-child(4), div#calculadora {
 input[type=button]:hover{
     filter: brightness(55%);
 }
+input[type=button]:active{
+    transform: scale(0.8);
+}
