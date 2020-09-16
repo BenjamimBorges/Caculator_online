@@ -14,3 +14,8 @@ body{
     height: 100vh;
     background: #012226;
 }
+input{
+    margin: 2px;
+    border: none;
+    border-radius: 4px;
+}
