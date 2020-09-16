@@ -6,3 +6,7 @@ function botao(num){
 function reseta(){
     document.calc.visor.value = "";
 }
+function calcula(){
+    resultado = eval(valor);
+    document.calc.visor.value = resultado.toLocaleString('pt-br')
+}
